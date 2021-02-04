@@ -38,6 +38,6 @@ end
 
 function love.keypressed(key)
     if key == 'up' then
-        player:applyLinearImpulse(0, -7000)
+        player:applyLinearImpulse(0, -7500)
     end
 end
