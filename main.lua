@@ -1,4 +1,3 @@
-
 function love.load()
     wf = require 'windfield/windfield'
     world = wf.newWorld(0, 800, false)
